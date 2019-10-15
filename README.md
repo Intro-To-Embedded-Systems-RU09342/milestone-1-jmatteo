@@ -1,6 +1,8 @@
 # Milestone 1: Stranger Things Light Wall
 For the first milestone, you will be building "Addressable" RGB LEDs which can be connected in series with one another and can have patterns generated from them. You will need to use one of your two development boards to generate an RGB node. By the week of _**OCTOBER 17**_, you will be expected to come into lab with a fully operational RGB node ready to be connected together. Your node will be tested individually during that lab period, with your documentation (code and readme) being graded throughout the week.
 
+https://ruece09342.slack.com/archives/CN47CTHQW/p1570739076000800
+
 Your grade will be broken up as follows:
 * RGB Node Performance (Including Code Review) 60%
 * Code Documentation 20%
